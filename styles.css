@@ -977,7 +977,7 @@ h3 {
 }
 
 #player-container  #play-pause {
-    cursor: pointer;
+    cursor: url(snow-flake.png), auto;
     bottom: 3px;
     left: 137px;
     display: inline-block;
