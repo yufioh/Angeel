@@ -1,3 +1,5 @@
+html, body {margin: 0; height: 100%; overflow:hidden;}
+
 [data-title]:hover:after {
     opacity: 0.5;
     transition: all 0.9s ease 0.5s;
