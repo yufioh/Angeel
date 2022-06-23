@@ -553,8 +553,12 @@ h3 {
     overflow:auto;
     box-sizing:border-box;
     padding:0px 20px 0px 0px;
+    transition: 2s;
 }
 
+.about-text:hover {
+	font-style: italic;
+}
 
 /* --- wave --- */
 
