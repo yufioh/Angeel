@@ -629,6 +629,9 @@ h3 {
 
         .side-imgi:hover {
             transform:rotate(12deg);
+	    font-style: oblique;
+            font-weight: 900;
+            color: #000;
         }
         
     .side-img-paper {
